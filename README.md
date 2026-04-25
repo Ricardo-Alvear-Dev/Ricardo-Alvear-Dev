@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ricardo Alvear 👋
 
 ### 🚀 Full-Stack Developer | MERN & PERN Specialist
 I am a passionate Full-Stack Developer focused on building high-performance web applications with a strong emphasis on **visual presentation** and **optimal user-friendly data interactions**. I bridge the gap between robust system design and seamless user experiences.
@@ -41,14 +41,6 @@ While my background includes craftsmanship and retail operations, these roles ha
 
 ---
 
-### 📊 GitHub Stats & Goals
-- 🔭 **Current Focus:** Deepening my expertise in React state management and immutability logic.
-- 🌱 **Learning:** Advanced System Design and Cloud Deployment.
-- ⚡ **Soft Skills:** Team Building, Reliability, and Adaptive Problem Solving.
-
----
-
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 [Your Email]
-- 🌍 [Your Portfolio Website]
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-alvear-ab0446357/)
+- 📧 ricardo.alvear.personal@gmail.com
