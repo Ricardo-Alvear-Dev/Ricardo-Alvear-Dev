@@ -19,7 +19,7 @@ I am a passionate Full-Stack Developer focused on building high-performance web 
 
 ### 🎓 Education & Certifications
 **George Brown Polytechnic** | *Advanced Diploma in Computer Science* *Sep 2024 – Jun 2027*
-* **GPA: 3.73**
+* **GPA: 3.5**
 * **Key Focus:** Architectural design using Agile frameworks, optimization techniques, and collaborative problem-solving.
 * **Leadership:** Active in team coordination and computer systems maintenance.
 
